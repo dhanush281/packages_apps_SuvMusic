@@ -1,6 +1,6 @@
 android_app_import {
         name: "SuvMusic",
-        apk: "SuvMusic-v1.0.2.apk",
+        apk: "SuvMusic-v1.0.6.apk",
         presigned: true,
         privileged: true,
         preprocessed: true,
